@@ -9,10 +9,10 @@ about:
       href: https://www.linkedin.com/in/seina-haruta/
     - icon: github
       text: Github
-      href: https://github.com/earobinson95/mickeymouse
+      href: https://github.com/sharuta
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: Seina Haruta Personal Website/Seina_Haruta_Resume.pdf
+      href: SeinaHaruta/Seina_Haruta_Resume.pdf
 resources: 
   - Seina_Haruta_Resume.pdf
 ---
