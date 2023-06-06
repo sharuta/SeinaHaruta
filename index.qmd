@@ -1,0 +1,23 @@
+---
+title: "Seina Haruta"
+image: Website Picture.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/seina-haruta/
+    - icon: github
+      text: Github
+      href: https://github.com/earobinson95/mickeymouse
+    - icon: file-earmark-pdf-fill
+      text: Resume
+      href: Seina Haruta Personal Website/Seina_Haruta_Resume.pdf
+resources: 
+  - Seina_Haruta_Resume.pdf
+---
+
+Welcome, my name is Seina Haruta! This is my website where you can learn more about me and what I have been working on, please feel free to browse. I am currently a student at California Polytechnic State University, pursuing a Bachelors of Science in Statistics. I am passionate about data analytics, patterns, and trends. Although I'm still in the early stages of my academic journey, I am committed to learning more about analyzing data and applying them to the real-world. Outside of school, I love to dance! Through dance, I have learned valuable lessons in discipline, teamwork, and creativity. This website serves as a digital portfolio and a platform for me to showcase my academic projects, coursework, and personal achievements. 
+
+
+

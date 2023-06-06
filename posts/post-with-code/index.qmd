@@ -1,0 +1,20 @@
+---
+title: "From Classroom to Campus"
+subtitle: "Examining In-State or Out-of-State College Enrollment Choices of High School Graduates in Santa Clara County"
+author: "Seina Haruta"
+date: "2023-04-18"
+categories: [analysis]
+image: "classroom.png"
+---
+
+# From Classroom to Campus: 
+## Examining In-State or Out-of-State College Enrollment Choices of High School Graduates in Santa Clara County
+#### Seina Haruta is a Statistics Major at California Polytechnic State University, from Santa Clara County. 
+
+   College enrollment is a path that can lead to a successful future for high school students. Some students want to explore their young adulthood by committing to a college that is out of state, while others choose to stay in the state they graduated high school from, but what are some factors that could impact this decision? 
+    
+   Santa Clara is a county in the Bay Area where students are known to be academically competitive. Data from the California Department of Education showed that on average, the number of high schoolers who enrolled in a college institution inside California was 855.57 for all high schools in Santa Clara County during the academic year 2019-2020. This number can be compared to 155.16, which is the average number of high school completers who enrolled in a college institution outside California. The number of high schoolers who enrolled in a college inside the state of California was over five times higher than the average number of high schoolers who enrolled in an out-of-state college. 
+    
+  This could be for several reasons. For example, some students do not feel comfortable moving so far from home; this could be one of their first times experiencing adulthood, and being further away from home could heighten fears and anxieties. Another reason could be because of finances. Tuition for students who remain in-state is often much lower than their tuition for a school that is out-of-state. This is because students who do not live in the university’s state are not paying in-state taxes, so, universities compensate by increasing their tuition. 
+    
+  In conclusion, the decision of enrolling in an in-state or out-of-state college is important and impacts the futures of many high school students. The data shows that a majority of students in Santa Clara County choose to enroll in-state, with tuition costs being a potentially significant factor. While 855.57 is a high average enrollment rate, would this number change if colleges in general, in-state or not, were more affordable? As a society, we should consider if  this is a barrier that we want our high school students to face while deciding their future education and careers. 

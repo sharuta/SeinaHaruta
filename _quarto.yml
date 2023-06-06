@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mickey Mouse"
+  navbar:
+    left:
+      - href: projects.qmd 
+        text: Projects
+      - icon: linkedin
+        href: https://twitter.com
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+editor: source
+
