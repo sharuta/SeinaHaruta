@@ -10,5 +10,8 @@
   },
   "projects.qmd": {
     "projects.html": "6a205e63"
+  },
+  "posts/one_number_story/index.qmd": {
+    "index.html": "6dcdebc1"
   }
 }
